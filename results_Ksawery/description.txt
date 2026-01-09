@@ -1,0 +1,8 @@
+Ksawery Wojtaszek
+https://github.com/Xywerson/snars-network-competition.git
+D1-K=2.csv, 0.001104
+D1-UNC.csv, 0.004921
+D2-K=7.csv, 0.003960
+D2-UNC.csv, 0.008294
+D3-K=12.csv, 0.005708
+D3-UNC.csv, 0.002571
